@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushbu Kumawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding girl' width='400' src='[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw2K-yQf2BrsL8eK_yf8Rmq6&ust=1703754439926000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODgvoWir4MDFQAAAAAdAAAAABBv](https://tenor.com/view/coding-gif-4706460855862906629)'/>
+<img align='right' alt='coding girl' width='400' src='[[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw2K-yQf2BrsL8eK_yf8Rmq6&ust=1703754439926000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODgvoWir4MDFQAAAAAdAAAAABBv](https://tenor.com/view/coding-gif-4706460855862906629)](https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif)'/>
 
 
 - 🔭 I’m currently working in **Coindelta**
